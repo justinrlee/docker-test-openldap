@@ -1,0 +1,17 @@
+dn: cn=Philip J. Fry,ou=people,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Philip J. Fry
+sn: Fry
+description: Human
+displayName: Fry
+employeeType: Delivery boy
+givenName: Philip
+mail: fry@confluent.justinrlee.io
+ou: Delivering Crew
+uid: fry
+userPassword:: e3NzaGF9d0wvVG0wSHNaeU90K29jbXlrU290UkpURnczd0ZKOWRlaEU4eFE9P
+ Q==
+

@@ -1,0 +1,20 @@
+dn: cn=Hubert J. Farnsworth,ou=people,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Hubert J. Farnsworth
+sn: Farnsworth
+description: Human
+displayName: Professor Farnsworth
+employeeType: Owner
+employeeType: Founder
+givenName: Hubert
+mail: professor@confluent.justinrlee.io
+mail: hubert@confluent.justinrlee.io
+ou: Office Management
+title: Professor
+uid: professor
+userPassword:: e3NzaGF9azRDRS9ta3Frb3NFampzVkhJWEhGMTFaU0h6ZVExUzdhdnQveWc9P
+ Q==
+

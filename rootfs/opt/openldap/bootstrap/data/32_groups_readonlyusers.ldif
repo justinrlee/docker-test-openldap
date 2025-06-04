@@ -1,0 +1,7 @@
+dn: cn=readonlyusers,ou=groups,dc=confluent,dc=justinrlee,dc=io
+objectClass: top
+objectClass: Group
+groupType: 2147483650
+cn: readonlyusers
+member: cn=internal,ou=users,dc=confluent,dc=justinrlee,dc=io
+member: cn=eric,ou=users,dc=confluent,dc=justinrlee,dc=io

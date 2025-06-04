@@ -1,0 +1,6 @@
+dn: cn=alice,ou=users,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+sn: alice
+uid: alice
+cn: james
+userPassword: alice-secret

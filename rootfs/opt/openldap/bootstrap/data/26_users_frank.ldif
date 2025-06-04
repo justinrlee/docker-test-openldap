@@ -1,0 +1,6 @@
+dn: cn=frank,ou=users,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+sn: frank
+uid: frank
+cn: james
+userPassword: frank-secret

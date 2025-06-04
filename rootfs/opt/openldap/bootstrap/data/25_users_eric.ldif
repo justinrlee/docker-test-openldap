@@ -1,0 +1,6 @@
+dn: cn=eric,ou=users,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+sn: eric
+uid: eric
+cn: james
+userPassword: eric-secret

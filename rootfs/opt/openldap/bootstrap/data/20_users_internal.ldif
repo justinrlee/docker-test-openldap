@@ -1,0 +1,6 @@
+dn: cn=internal,ou=users,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+sn: internal
+uid: internal
+cn: james
+userPassword: internal-secret

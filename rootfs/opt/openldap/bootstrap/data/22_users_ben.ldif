@@ -1,0 +1,6 @@
+dn: cn=ben,ou=users,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+sn: ben
+uid: ben
+cn: james
+userPassword: ben-secret

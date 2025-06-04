@@ -1,0 +1,5 @@
+dn: ou=groups,dc=confluent,dc=justinrlee,dc=io
+objectClass: top
+objectClass: organizationalUnit
+description: Confluent Groups
+ou: groups

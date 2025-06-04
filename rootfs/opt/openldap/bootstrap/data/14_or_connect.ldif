@@ -1,0 +1,6 @@
+dn: cn=connect,dc=confluent,dc=justinrlee,dc=io
+objectClass: simpleSecurityObject
+objectClass: organizationalRole
+cn: connect
+userPassword: connect-secret
+description: connect serviceaccount

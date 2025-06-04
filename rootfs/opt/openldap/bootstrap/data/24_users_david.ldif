@@ -1,0 +1,6 @@
+dn: cn=david,ou=users,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+sn: david
+uid: david
+cn: james
+userPassword: david-secret

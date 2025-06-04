@@ -1,0 +1,6 @@
+    dn: cn=mds,dc=confluent,dc=justinrlee,dc=io
+objectClass: simpleSecurityObject
+objectClass: organizationalRole
+cn: mds
+userPassword: mds-secret
+description: mds serviceaccount

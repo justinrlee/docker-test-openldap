@@ -1,0 +1,17 @@
+dn: cn=Bender Bending Rodriguez,ou=people,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Bender Bending Rodriguez
+sn: Rodriguez
+description: Robot
+displayName: Bender
+employeeType: Ship's Robot
+givenName: Bender
+mail: bender@confluent.justinrlee.io
+ou: Delivering Crew
+uid: bender
+userPassword:: e3NzaGF9amxCTnNmVVdKK0tIWHprRFVuYTJSSTBjK09PNmlGdzAxZHd3K3c9P
+ Q==
+

@@ -1,0 +1,6 @@
+dn: cn=kafka,dc=confluent,dc=justinrlee,dc=io
+objectClass: simpleSecurityObject
+objectClass: organizationalRole
+cn: kafka
+userPassword: kafka-secret
+description: kafka serviceaccount

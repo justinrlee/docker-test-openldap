@@ -1,0 +1,18 @@
+dn: cn=John A. Zoidberg,ou=people,dc=confluent,dc=justinrlee,dc=io
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: John A. Zoidberg
+sn: Zoidberg
+description: Decapodian
+displayName: Zoidberg
+employeeType: Doctor
+givenName: John
+mail: zoidberg@confluent.justinrlee.io
+ou: Staff
+title: Ph.D.
+uid: zoidberg
+userPassword:: e3NzaGF9UEgvVjZ3S3Mxc3lRems0RGFCd0hXdlJQNmhlZ2xQWmtCR2hWdUE9P
+ Q==
+

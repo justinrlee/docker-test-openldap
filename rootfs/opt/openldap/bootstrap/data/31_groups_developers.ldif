@@ -1,0 +1,9 @@
+dn: cn=developers,ou=groups,dc=confluent,dc=justinrlee,dc=io
+objectClass: top
+objectClass: Group
+groupType: 2147483650
+cn: developers
+member: cn=internal,ou=users,dc=confluent,dc=justinrlee,dc=io
+member: cn=ben,ou=users,dc=confluent,dc=justinrlee,dc=io
+member: cn=charlie,ou=users,dc=confluent,dc=justinrlee,dc=io
+member: cn=david,ou=users,dc=confluent,dc=justinrlee,dc=io

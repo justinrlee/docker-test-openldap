@@ -1,0 +1,17 @@
+dn: cn=Turanga Leela,ou=people,dc=confluent,dc=justinrlee,dc=io
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+objectClass: person
+objectClass: top
+cn: Turanga Leela
+sn: Turanga
+description: Mutant
+employeeType: Captain
+employeeType: Pilot
+givenName: Leela
+mail: leela@confluent.justinrlee.io
+ou: Delivering Crew
+uid: leela
+userPassword:: e3NzaGF9eCtEOFJJTDFQNUJ3OFo1N28ra2tFeDlLNm14d0JSY0tSNmo1R2c9P
+ Q==
+
