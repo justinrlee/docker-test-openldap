@@ -1,4 +1,5 @@
 FROM debian:buster-slim
+# TODO: Update to use bookworm-slim; more effort than just changing the base image
 
 # Configuration Env Variables with defaults
 ENV DATA_DIR="/opt/openldap/bootstrap/data"
@@ -25,8 +26,8 @@ RUN apt-get update \
     && mkdir /etc/ldap/ssl /bootstrap
 
 # Add s6-overlay
-ADD https://github.com/just-containers/s6-overlay/releases/download/v2.2.0.1/s6-overlay-amd64-installer /tmp/
-RUN chmod +x /tmp/s6-overlay-amd64-installer && /tmp/s6-overlay-amd64-installer /
+ADD https://github.com/just-containers/s6-overlay/releases/download/v2.2.0.3/s6-overlay-aarch64-installer /tmp/
+RUN chmod +x /tmp/s6-overlay-aarch64-installer && /tmp/s6-overlay-aarch64-installer /
 
 # ADD rootfs files
 ADD ./rootfs /
