@@ -1,4 +1,4 @@
-dn: cn=Bender Bending Rodriguez,ou=people,dc=planetexpress,dc=com
+dn: cn=Bender Bending Rodriguez,ou=people,dc=confluent,dc=justinrlee,dc=io
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
 objectClass: person
@@ -486,7 +486,7 @@ jpegPhoto:: /9j/4AAQSkZJRgABAQEAYABgAAD/4QBgRXhpZgAASUkqAAgAAAACADEBAgAHAAAA
  R1oxMDHcNaL3Udwki8jk0414UMeFPk7ykSAiIgIiIPSQy0+0TT4CYV7wkpxozrJl2kTwxG6u37E
  yruetz5/GRvNxNo/D2U7vd7fNx5lCkQfoxppqBiuomOhfMVuQzGK8KPtV7HY5+o6HhL+SvnGtad
  qly/N3orzZkDpN2KPBlyIrMx9xqS2y5UBfDq6ltOlOwqbqUrwr2caUqv0iQEREBERB//9k=
-mail: bender@planetexpress.com
+mail: bender@confluent.justinrlee.io
 ou: Delivering Crew
 uid: bender
 userPassword:: e3NzaGF9amxCTnNmVVdKK0tIWHprRFVuYTJSSTBjK09PNmlGdzAxZHd3K3c9P

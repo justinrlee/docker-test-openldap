@@ -1,4 +1,4 @@
-dn: cn=Turanga Leela,ou=people,dc=planetexpress,dc=com
+dn: cn=Turanga Leela,ou=people,dc=confluent,dc=justinrlee,dc=io
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
 objectClass: person
@@ -481,7 +481,7 @@ jpegPhoto:: /9j/4AAQSkZJRgABAQEAYABgAAD/4QBgRXhpZgAASUkqAAgAAAACADEBAgAHAAAA
  30MMIGDU3EgvoFRr0DCBSI7E4l2XfSqB3KkVm3pVfjfdo+FeRSwZYeBTyOWpGhxZ5za5VsAuUkg
  wzFLEcwEWx8hVplWu3M3EK+6CF93LymBjEQCJY7GHnpag+JjZ4THdiqqDWKqDWWUXel0PamMqmR
  q9xdeWPgg1iS93S8UxR1UaDECMjGcHd/ErouPCo+WMyboCX0DDCf/Z
-mail: leela@planetexpress.com
+mail: leela@confluent.justinrlee.io
 ou: Delivering Crew
 uid: leela
 userPassword:: e3NzaGF9eCtEOFJJTDFQNUJ3OFo1N28ra2tFeDlLNm14d0JSY0tSNmo1R2c9P

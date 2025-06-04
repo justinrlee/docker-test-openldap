@@ -1,4 +1,4 @@
-dn: cn=Hermes Conrad,ou=people,dc=planetexpress,dc=com
+dn: cn=Hermes Conrad,ou=people,dc=confluent,dc=justinrlee,dc=io
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson
@@ -9,7 +9,7 @@ description: Human
 employeeType: Bureaucrat
 employeeType: Accountant
 givenName: Hermes
-mail: hermes@planetexpress.com
+mail: hermes@confluent.justinrlee.io
 ou: Office Management
 uid: hermes
 userPassword:: e3NzaGF9M3UzcUdCSmFMc2tiUEg0OVJrYlFtUk9HTktFb1lOUXZkU2lOZmc9P

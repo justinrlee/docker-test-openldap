@@ -1,8 +1,8 @@
-dn: cn=ship_crew,ou=people,dc=planetexpress,dc=com
+dn: cn=ship_crew,ou=people,dc=confluent,dc=justinrlee,dc=io
 objectclass: Group
 objectclass: top
 groupType: 2147483650
 cn: ship_crew
-member: cn=Philip J. Fry,ou=people,dc=planetexpress,dc=com
-member: cn=Turanga Leela,ou=people,dc=planetexpress,dc=com
-member: cn=Bender Bending Rodriguez,ou=people,dc=planetexpress,dc=com
+member: cn=Philip J. Fry,ou=people,dc=confluent,dc=justinrlee,dc=io
+member: cn=Turanga Leela,ou=people,dc=confluent,dc=justinrlee,dc=io
+member: cn=Bender Bending Rodriguez,ou=people,dc=confluent,dc=justinrlee,dc=io

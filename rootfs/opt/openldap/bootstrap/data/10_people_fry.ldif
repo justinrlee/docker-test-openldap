@@ -1,4 +1,4 @@
-dn: cn=Philip J. Fry,ou=people,dc=planetexpress,dc=com
+dn: cn=Philip J. Fry,ou=people,dc=confluent,dc=justinrlee,dc=io
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
 objectClass: person
@@ -403,7 +403,7 @@ jpegPhoto:: /9j/4AAQSkZJRgABAQEAYABgAAD/4QBgRXhpZgAASUkqAAgAAAACADEBAgAHAAAA
  fSo7EGoNx4h0VnolQ1KuOJWg22Q3WMpjuwOjoUKEV79YZMkCR7xg9JEkVmYLoymCBi179XcuGiI
  9/yGjRo0aH30taUSMPoHsNMiiexn+5/4n+5/wCJ/uf+JSQOu2mmVtxNH01DUpK3VSAcKwhFXS4G
  f7D/AJhT+wuAlPAnroHRb6LUejbori9AtKdcsHoGGE//2Q==
-mail: fry@planetexpress.com
+mail: fry@confluent.justinrlee.io
 ou: Delivering Crew
 uid: fry
 userPassword:: e3NzaGF9d0wvVG0wSHNaeU90K29jbXlrU290UkpURnczd0ZKOWRlaEU4eFE9P

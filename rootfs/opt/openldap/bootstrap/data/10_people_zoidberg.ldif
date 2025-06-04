@@ -1,4 +1,4 @@
-dn: cn=John A. Zoidberg,ou=people,dc=planetexpress,dc=com
+dn: cn=John A. Zoidberg,ou=people,dc=confluent,dc=justinrlee,dc=io
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson
@@ -480,7 +480,7 @@ jpegPhoto:: /9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoH
  YHa1VhtBE3kdqN1hkDQA0AKIUs6cCTV2am0JQTTqbDk+ZV9JdwH9/M13Ly9QLYHpHYNe8MlTK10
  Kqur/wCQOhR1r/Iaz/lqRJQN4VPWTMD90fIGZN+6h+QA3IFjMBlYlF6GElHrs4yo7ABYKSKWXgY
  oUVB777av/9k=
-mail: zoidberg@planetexpress.com
+mail: zoidberg@confluent.justinrlee.io
 ou: Staff
 title: Ph.D.
 uid: zoidberg

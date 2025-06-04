@@ -43,14 +43,14 @@ load_initial_data() {
 
         base_dn=${LDAP_BASEDN:-}
         if  [ ! -z "${base_dn}" ]; then
-            echo "updating base dn dc=planetexpress,dc=com -> ${base_dn}"
-            sed -i "s/dc=planetexpress,dc=com/${base_dn}/g" "${ldif}"
+            echo "updating base dn dc=confluent,dc=justinrlee,dc=io -> ${base_dn}"
+            sed -i "s/dc=confluent,dc=justinrlee,dc=io/${base_dn}/g" "${ldif}"
         fi
 
         domain=${LDAP_DOMAIN:-}
-        if  [  "${domain}" != "planetexpress.com" ]; then
-            echo "updating emails @planetexpress.com -> @${domain}"
-            sed -i "s/@planetexpress.com/@${domain}/g" "${ldif}"
+        if  [  "${domain}" != "confluent.justinrlee.io" ]; then
+            echo "updating emails @confluent.justinrlee.io -> @${domain}"
+            sed -i "s/@confluent.justinrlee.io/@${domain}/g" "${ldif}"
         fi
 
         ldapadd -x -H ldapi:/// \

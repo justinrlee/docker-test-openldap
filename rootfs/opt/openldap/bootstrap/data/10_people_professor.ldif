@@ -1,4 +1,4 @@
-dn: cn=Hubert J. Farnsworth,ou=people,dc=planetexpress,dc=com
+dn: cn=Hubert J. Farnsworth,ou=people,dc=confluent,dc=justinrlee,dc=io
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
 objectClass: person
@@ -487,8 +487,8 @@ jpegPhoto:: /9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBQgMFBofBgYHCg0dHhwHBwgMFB0j
  OjNW4zTEXvDMpXUSIhw9sZboj+9aXKBdw9xK9dL4h4msyOouCmP7yy6fcDk+2Qfwrm/h6A9zeNK
  AzqYbCBz/yythBu2r9ZHY/z6Cuk8Qf6+yz0+0NkeuNKu+o9iBQB0VFFFMYUUUUAFFFFABRRRQAU
  UUUAFFFFABRRRQA/9k=
-mail: professor@planetexpress.com
-mail: hubert@planetexpress.com
+mail: professor@confluent.justinrlee.io
+mail: hubert@confluent.justinrlee.io
 ou: Office Management
 title: Professor
 uid: professor

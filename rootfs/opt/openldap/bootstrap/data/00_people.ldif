@@ -1,5 +1,5 @@
-dn: ou=people,dc=planetexpress,dc=com
+dn: ou=people,dc=confluent,dc=justinrlee,dc=io
 objectClass: top
 objectClass: organizationalUnit
-description: Planet Express crew
+description: Confluent People
 ou: people

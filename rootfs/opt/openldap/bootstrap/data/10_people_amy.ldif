@@ -1,4 +1,4 @@
-dn: cn=Amy Wong+sn=Kroker,ou=people,dc=planetexpress,dc=com
+dn: cn=Amy Wong+sn=Kroker,ou=people,dc=confluent,dc=justinrlee,dc=io
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson
@@ -7,7 +7,7 @@ cn: Amy Wong
 sn: Kroker
 description: Human
 givenName: Amy
-mail: amy@planetexpress.com
+mail: amy@confluent.justinrlee.io
 ou: Intern
 uid: amy
 userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
