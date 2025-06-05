@@ -2,5 +2,5 @@ dn: cn=david,ou=users,dc=confluent,dc=justinrlee,dc=io
 objectClass: inetOrgPerson
 sn: david
 uid: david
-cn: james
+cn: david
 userPassword: david-secret
