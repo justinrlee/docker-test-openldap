@@ -1,6 +1,6 @@
 dn: cn=controlcenter,dc=confluent,dc=justinrlee,dc=io
-objectClass: simpleSecurityObject
-objectClass: organizationalRole
+objectClass: inetOrgPerson
 cn: controlcenter
+sn: controlcenter
+uid: controlcenter
 userPassword: controlcenter-secret
-description: controlcenter serviceaccount

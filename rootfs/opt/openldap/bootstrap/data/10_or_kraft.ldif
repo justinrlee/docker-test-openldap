@@ -1,6 +1,6 @@
 dn: cn=kraft,dc=confluent,dc=justinrlee,dc=io
-objectClass: simpleSecurityObject
-objectClass: organizationalRole
+objectClass: inetOrgPerson
 cn: kraft
+sn: kraft
+uid: kraft
 userPassword: kraft-secret
-description: kraft serviceaccount

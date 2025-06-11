@@ -1,6 +1,6 @@
 dn: cn=schemaregistry,dc=confluent,dc=justinrlee,dc=io
-objectClass: simpleSecurityObject
-objectClass: organizationalRole
+objectClass: inetOrgPerson
 cn: schemaregistry
+sn: schemaregistry
+uid: schemaregistry
 userPassword: schemaregistry-secret
-description: schemaregistry serviceaccount

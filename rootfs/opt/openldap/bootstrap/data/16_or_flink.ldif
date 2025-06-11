@@ -1,6 +1,6 @@
 dn: cn=flink,dc=confluent,dc=justinrlee,dc=io
-objectClass: simpleSecurityObject
-objectClass: organizationalRole
+objectClass: inetOrgPerson
 cn: flink
+sn: flink
+uid: flink
 userPassword: flink-secret
-description: flink serviceaccount
